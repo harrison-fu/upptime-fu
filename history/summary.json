@@ -58,7 +58,7 @@
     "url": "https://www.office.com/",
     "icon": "https://favicons.githubusercontent.com/www.office.com",
     "slug": "microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 97,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "CNN",
